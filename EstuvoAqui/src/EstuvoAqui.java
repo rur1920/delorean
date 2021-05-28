@@ -9,6 +9,8 @@ public class EstuvoAqui {
 
 		System.out.println("Ismael ha estado hoy aqui \n");
 
+		System.out.println("JM ya estuvo aquí dos veces\n");
+
 	}
 
 }
