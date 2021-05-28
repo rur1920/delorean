@@ -7,6 +7,8 @@ public class EstuvoAqui {
 		
 		System.out.println("Jose Manuel ha estado hoy aqui \n");
 
+		System.out.println("Ismael ha estado hoy aqui \n");
+
 	}
 
 }
